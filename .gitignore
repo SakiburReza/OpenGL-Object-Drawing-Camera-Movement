@@ -1,0 +1,8 @@
+*.dll
+*.o
+*.bat
+*.zip
+.vscode
+1705106
+bin
+obj
